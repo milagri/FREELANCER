@@ -1,1 +1,38 @@
-/* Inserta tu código aqui */
+h1 h2 h3 h4 h5{
+	font-family: "Montserrat";
+}
+
+header {
+	
+	color: #fff;
+	
+}
+header .cont-men{
+	background-color: black;
+	width: 100%
+
+
+}
+.menu li {
+display:inline-block;
+list-style: none;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+.menu a { 
+	color: #fff;
+	padding: 5px 10px;
+	text-decoration: none;
+	transition: all 0.5s;
+}
+.cont-gr {
+	background-color: #04B486;
+	text-align: center;
+	width: 100%;
+	margin:auto;
+
+}
+.img-por {
+	width: 100%;
+	padding: 3%;
+}

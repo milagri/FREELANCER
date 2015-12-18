@@ -37,11 +37,20 @@ hr {
 	width: 8%;
 	height: 8%;
 }
-
-/*.container_por {
-	
-  	padding-left: 200px;
-  	padding-right: 200px;
-*/
+footer{
+	padding-top: 50px;
+	background-color: #2C3E50;
+	color: #fff;
+	text-align: center;
+}
+footer .foot-f{
+	background-color: #233140;
+	padding: 10px 0 5px 0;
+}
+.container {
+	text-align: center;
+}
+.btn {
+	background-color:#04B486; 
 }
   

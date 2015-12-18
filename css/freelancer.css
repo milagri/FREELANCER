@@ -3,7 +3,6 @@ h1 h2 h3 h4 h5{
 }
 
 header {
-	
 	color: #fff;
 	
 }
@@ -29,10 +28,20 @@ margin-bottom: 10px;
 	background-color: #04B486;
 	text-align: center;
 	width: 100%;
-	margin:auto;
+	padding: 5%;
+	color: #fff;
+	
 
 }
-.img-por {
-	width: 100%;
-	padding: 3%;
+hr {
+	width: 8%;
+	height: 8%;
 }
+
+/*.container_por {
+	
+  	padding-left: 200px;
+  	padding-right: 200px;
+*/
+}
+  
